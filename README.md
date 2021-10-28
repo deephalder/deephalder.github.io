@@ -1,7 +1,7 @@
 Now I have a personal [website](https://andlukyane.com/)!
 
 
-# Data science portfolio by Andrey Lukyanenko
+# Data science portfolio by Subhradip Halder
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
