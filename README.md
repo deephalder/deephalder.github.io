@@ -1,5 +1,3 @@
-Now I have a personal [website](https://andlukyane.com/)!
-
 
 # Data science portfolio by Subhradip Halder
 
