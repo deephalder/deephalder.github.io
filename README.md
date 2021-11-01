@@ -175,9 +175,14 @@ I have a dataset with telematic information about 10 cars driving during one day
 
 ## Recommendation systems.
 
-### Collaborative filtering
+### Similar Movie Recommendation System
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Collaborative_filtering.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Collaborative_filtering.ipynb)
+[Github](https://github.com/deephalder/Personal-Code/blob/main/Kaggle/Movie_recommended_system/movie-recommendation-system-content-based-easy.ipynb) 
+
+[Live app URL link ](https://similar-movies.herokuapp.com)
 
 Recommenders are systems, which predict ratings of users for items. There are several approaches to build such systems and one of them is Collaborative Filtering. 
-This notebook shows several examples of collaborative filtering algorithms.
+This notebook and app, shows a recommendation system where the user selects a movie from the list of top 5000 movies and it gives you the top 5 most similar movies along with their images.
+
+This notebook is also deployed in hereko , so you can use the app using this URL : https://similar-movies.herokuapp.com
+
