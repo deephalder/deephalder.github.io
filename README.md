@@ -40,24 +40,6 @@ PAST
 
 This portfolio is a compilation of  all my work  which includes Data Science projects, Data Analysis projects, Data Visualization, NLP projects and much more. 
 
-## Table of Contents
-
-- [Data Science Projects ](#Data_Science_Projects)
-- [Kaggle competitions ](#Kaggle_competitions)
-- [Classification problems](#Classification_problems)
-- [Natural language processing - NLP](#Natural_language_processing)
-- [Big data projects.](#Big_data_projects)
-- [Recommendation systems](#Recommendation_systems)
-    - [Similar Movie Recommendation System.](#Similar_Movie_Recommendation_System)
-- [Data Analysis](#Data_Analysis)
-- [SQl projects](#SQL_projects)
-- [Data Visualization](#Data_Visualization)
-    - [Microsoft Power Bi](#Microsoft_Power_Bi)
-    - [Tableaui](#Tableau)
-- [Cloud Projects](#Cloud_Projects)
-
-
-
 ## Data_Science_Projects
 
 ## Kaggle_competitions
