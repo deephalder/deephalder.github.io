@@ -36,9 +36,31 @@ PAST
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Me on Twitter" title="Follow Halder on Twitter"/>](https://www.twitter.com/Halder_Subh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Halder on Instagram"/>](https://www.instagram.com/walkwithhal/)
 
+Link to my github account to view all the code for the projects mentioned below - [Github Portfolio ](https://github.com/deephalder/Data-Science-Portfolio) 
+
+
 # Portfolio -  Subhradip Halder
 
 This portfolio is a compilation of  all my work  which includes Data Science projects, Data Analysis projects, Data Visualization, NLP projects and much more. 
+
+
+## Table of Contents
+
+- [Data Science Projects ](#Data_Science_Projects)
+- [Kaggle competitions ](#Kaggle_competitions)
+- [Classification problems](#Classification_problems)
+- [Natural language processing - NLP](#Natural_language_processing)
+- [Big data projects.](#Big_data_projects)
+- [Recommendation systems](#Recommendation_systems)
+    - [Similar Movie Recommendation System.](#Similar_Movie_Recommendation_System)
+- [Data Analysis](#Data_Analysis)
+- [SQl projects](#SQL_projects)
+- [Data Visualization](#Data_Visualization)
+    - [Microsoft Power Bi](#Microsoft_Power_Bi)
+    - [Tableaui](#Tableau)
+- [Cloud Projects](#Cloud_Projects)
+
+
 
 ## Data_Science_Projects
 
@@ -54,21 +76,14 @@ This portfolio is a compilation of  all my work  which includes Data Science pro
 
 ### Similar Movie Recommendation System.
 
-[Github](https://github.com/deephalder/Personal-Code/blob/main/Kaggle/Movie_recommended_system/movie-recommendation-system-content-based-easy.ipynb) 
+[Github](https://github.com/deephalder/Data-Science-Portfolio/blob/main/Recommendation%20Systems/Movie_Recommendation_System/movie-recommendation-system-content-based-easy.ipynb) 
 
 [Live app URL link ](https://similar-movies.herokuapp.com)
 
 Recommenders are systems, which predict ratings of users for items. There are several approaches to build such systems and one of them is Collaborative Filtering. 
-
 This notebook and app, shows a recommendation system where the user selects a movie from the list of top 5000 movies and it gives you the top 5 most similar movies along with their images.
 
-This notebook is also deployed in Heroku , so you can use the app using this URL : https://similar-movies.herokuapp.com
-
-### Book Genre Predition and recommendations.
-
-This a machine learning project where the user enters a summary or description and the app directly predicts a genre fit for the summary, and then finds similar books based on the summary's closest cosine similarity score.
-The data for books were first scraped from goodreads and then the model was trained to predict the summary.
-
+This notebook is also deployed in Heroko , so you can use the app using this URL : https://similar-movies.herokuapp.com
 
 ## Data_Analysis
 
