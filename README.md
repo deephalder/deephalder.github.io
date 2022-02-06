@@ -36,7 +36,7 @@ PAST
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Me on Twitter" title="Follow Halder on Twitter"/>](https://www.twitter.com/Halder_Subh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Halder on Instagram"/>](https://www.instagram.com/walkwithhal/)
 
-Link to my github account to view all the code for the projects mentioned below - [Github Portfolio ](https://github.com/deephalder/Data-Science-Portfolio) 
+**Link to my github account to view all the code for the projects mentioned below** - [Github Portfolio ](https://github.com/deephalder/Data-Science-Portfolio) 
 
 
 # Portfolio -  Subhradip Halder
